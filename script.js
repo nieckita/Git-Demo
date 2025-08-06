@@ -5,7 +5,8 @@ function feature() {
 function newFeautre() {
   console.log("los geht");
   console.log("new Feauter??");
-  console.log(1 + 1);
+  console.log(1 + 1 + 2);
+  return 42;
 }
 
 function coolfeature() {
