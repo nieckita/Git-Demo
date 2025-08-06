@@ -3,7 +3,8 @@ function feature() {
 }
 
 function newFeautre() {
-  console.log("new Feauter");
+  console.log("new Feauter!!");
+  console.log(1 + 1);
 }
 
 function coolfeature() {
